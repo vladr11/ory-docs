@@ -104,6 +104,12 @@ module.exports = {
           label: 'Documentation'
         },
         {
+          to: '/examples',
+          position: 'left',
+          sidebarId: 'examples',
+          label: 'Examples'
+        },
+        {
           type: 'docSidebar',
           position: 'left',
           sidebarId: 'opensource',
